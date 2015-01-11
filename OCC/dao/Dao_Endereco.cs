@@ -23,7 +23,7 @@ namespace OCC.dao
             {
                 string strRua = en.Rua; int strNumero = en.Numero; string strBairro = en.Bairro;
                 int strCep = en.Cep; string strCidade = en.Cidade; string strEstado = en.Estado;
-                int teste;
+                
                 conection = new SqlConnection(strConect);                
                 SqlCommand Command = new SqlCommand();
                 Command.Connection = conection;
