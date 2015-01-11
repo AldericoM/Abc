@@ -26,6 +26,7 @@ namespace OCC.e_num
         Professor_de_Informática = 16,
         Professor_de_Violoncelo = 17,
         Copeira = 18,
+        Copeira = 19,
         
     }
 }
