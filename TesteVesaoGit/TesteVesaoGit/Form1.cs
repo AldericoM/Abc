@@ -16,5 +16,10 @@ namespace TesteVesaoGit
         {
             InitializeComponent();
         }
+
+        public void mensagem()
+        {
+            MessageBox.Show("Hellow word");
+        }
     }
 }
